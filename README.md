@@ -37,7 +37,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e estou trilhando meu 
 Este é o meu projeto principal no momento. É uma plataforma voltada para escritores, onde foco em criar uma experiência de escrita limpa e organizada.
 
 * **Objetivo:** Praticar Front-end com algumas funções de usabilidade e design.
-* **Link do Repositório:** [Acessar Código](https://github.com/RichardLeichter/Tear-de-Cronicas)
+* **Link do Repositório:** [Acessar Código](https://github.com/RichardLeichter/Tear_de_Cronicas)
 
 ---
 
