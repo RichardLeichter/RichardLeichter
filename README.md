@@ -3,7 +3,7 @@
 <br />
 
 ### 🖋️ Sobre mim
-Sou formado em **Análise e Desenvolvimento de Sistemas** e estou trilhando meu caminho no desenvolvimento de software com foco em **Front-end**. Acredito que o código é uma ferramenta para organizar ideias e contar histórias, manter o foco para me tornar um desenvolvedor full stack.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estou trilhando meu caminho no desenvolvimento de software como **Full-stack**. Acredito que o código é uma ferramenta para organizar ideias e contar histórias, manter o foco para me tornar um desenvolvedor full stack.
 
 * 🚀 **Foco Atual:** Refinando o [Tear de Crônicas](https://teardecronicas.vercel.app), minha plataforma de escrita.
 * 🌱 **Estudando:** Tailwind CSS para interfaces e Supabase para persistência de dados e mais alguns frameworks.
