@@ -1,4 +1,4 @@
-# Hello, I am Richard S. Leichter! 👋
+# Olá, Eu me chamo Richard! 👋
 
 <br />
 
